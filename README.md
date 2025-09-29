@@ -2,10 +2,10 @@
 
 Repositori ini berisi implementasi kode Python untuk konversi citra digital antar berbagai ruang warna, berdasarkan Tugas 2 Analisis Data Citra Biomedik.
 
-## 📖 Deskripsi
+## Deskripsi
 Tujuan dari project ini adalah memahami proses konversi citra antar ruang warna seperti RGB, Grayscale, Biner, CMY, HSI, dan YCbCr, serta melihat perbedaan hasil visualisasi setiap konversi. Konversi dilakukan menggunakan Python dengan bantuan pustaka **NumPy**, **OpenCV**, dan **Matplotlib**.
 
-## 🔧 Fitur
+## Fitur
 - **RGB → Grayscale**
 - **Grayscale → Biner**
 - **Biner → Grayscale**
